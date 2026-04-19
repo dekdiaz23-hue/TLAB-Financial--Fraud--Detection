@@ -1,4 +1,4 @@
-# Fraud Detection — PaySim Dataset
+[TLAB] Financial Fraud Detection
 
 This project builds a machine learning pipeline to detect fraudulent bank transactions using a dataset of 6.3 million rows. The goal is to catch as much fraud as possible while keeping false positives low.
 
