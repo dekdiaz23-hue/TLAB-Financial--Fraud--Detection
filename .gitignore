@@ -1,2 +1,5 @@
 data/Tlab.csv
 /Users/saadult/TLAB Financial Fraud Detection/TLAB-Financial--Fraud--Detection/data/cleaned_transactions.csv
+.ipynb_checkpoints/
+*__pycache__/
+*.csv
